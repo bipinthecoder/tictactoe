@@ -13,4 +13,4 @@ https://bipinthecoder.github.io/tictactoe/
 ### How to run
 - Clone the repo
 - run index.html in browser
-- While playing make sure to hit enter key after each name is entered.
+- While playing make sure to hit enter key after each player name is entered.
